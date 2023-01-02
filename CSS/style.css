@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  background-color: #bdbdbd;
+}
+body {
+  background: url(fon.jpg);
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+.main-section {
+  display: flex;
+}
+.kontakt-menu {
+  display: flex;
+  justify-content: space-between;
+}
+.first-section {
+  display: flex;
+  justify-content: space-between;
+}
+#my-tools {
+  text-align: center;
+}
